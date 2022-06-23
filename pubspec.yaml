@@ -40,6 +40,10 @@ dependencies:
   provider: ^6.0.3
   intl: ^0.17.0
   flutter_datetime_picker:
+  flutter_local_notifications:
+  rxdart:
+  image_picker: ^0.8.5+3
+  path_provider: ^2.0.11
 
 dev_dependencies:
   flutter_test:
